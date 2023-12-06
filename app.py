@@ -54,7 +54,7 @@ dark_mode_css = """
 # Streamlit app
 st.markdown(dark_mode_css, unsafe_allow_html=True)
 
-st.title('Recommend Anime')
+st.title('AnimeInsight')
 
 selected_anime = st.selectbox(
     'Which anime did you like?',
