@@ -1,8 +1,8 @@
-## AnimeInsight by
-Celis
-Cristobal
-Eustaquio
-Geronimo
+## AnimeInsight (Recommendation System) by
+Celis,
+Cristobal,
+Eustaquio,
+Geronimo,
 Mata
 
 <br>
